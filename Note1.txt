@@ -4,3 +4,4 @@ test 3
 test 4 
 Issue # SCOPEJ-3 fixed
 Issue # SCOPEJ-3 fixed
+Issue # Scopej-2 fixed
